@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        // DOM and ES6 and High Level Libraries.
+        // Our programmer will run inside browser, so we require dom type definitions.
+        // es6: Alias of es2015: Additional APIs available in ES2015 (also known as ES6) - array.find, Promise, Proxy, Symbol, Map, Set, Reflect, etc.
+        "lib": ["dom", "es6"]
+    }
+}
