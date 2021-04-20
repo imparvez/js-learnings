@@ -21,3 +21,6 @@
 - Void
 - Null and Undefined
 
+### Composing Types
+With TypeScript, you can create complex types by combining simple ones. There are two popular ways to do so: with Unions, and with Generics.
+
